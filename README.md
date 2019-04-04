@@ -1,4 +1,4 @@
-# React Redux Hot Boilerplate
+# React Native Todo app
 
 A simple todo list application built with react-native.
 
